@@ -7,7 +7,7 @@ function FindProxyForURL(url, host) {
      dnsDomainIs(host, "yimg.jp") ||
      dnsDomainIs(host, "yahoo.co.jp") ||
      dnsDomainIs(host, "whatsmyip.org")
-  ) return "PROXY 133.18.234.13:80"; // https://www.freeproxy.world/
+  ) return "PROXY 47.245.34.161:118"; // https://www.freeproxy.world/
 
   return "DIRECT";
 }
