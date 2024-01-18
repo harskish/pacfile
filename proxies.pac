@@ -1,3 +1,4 @@
+// Hosted at: https://raw.githubusercontent.com/harskish/pacfile/main/proxies.pac
 // Edit via: https://github.com/harskish/pacfile/edit/main/proxies.pac
 function FindProxyForURL(url, host) {
   if (
