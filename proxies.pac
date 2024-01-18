@@ -1,4 +1,4 @@
-// Edit via:  https://github.com/harskish/pacfile/edit/main/proxies.pac
+// Edit via: https://github.com/harskish/pacfile/edit/main/proxies.pac
 function FindProxyForURL(url, host) {
   if (
      dnsDomainIs(host, "storage-yahoo.jp") ||
